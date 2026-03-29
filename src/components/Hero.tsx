@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Button } from './ui-core/button';
+import { Button } from './ui/button';
 import { ArrowRight, Play, LayoutDashboard, Settings, Zap } from 'lucide-react';
 
 export function Hero() {

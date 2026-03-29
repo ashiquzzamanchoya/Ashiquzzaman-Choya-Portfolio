@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
-import { Button } from './ui-core/button';
-import { Input } from './ui-core/input';
+import { Button } from './ui/button';
+import { Input } from './ui/input';
 import { ArrowRight, Send } from 'lucide-react';
 
 export function CTA() {

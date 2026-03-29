@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'motion/react';
 import { ArrowUpRight } from 'lucide-react';
-import { Button } from './ui-core/button';
+import { Button } from './ui/button';
 
 const projects = [
   {
