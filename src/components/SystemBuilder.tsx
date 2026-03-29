@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'motion/react';
-import { Card } from './ui/card';
-import { Button } from './ui/button';
+import { Card } from './ui-core/card';
+import { Button } from './ui-core/button';
 import { Check, Plus, Settings, Video, MessageSquare, Palette, Database } from 'lucide-react';
 
 const modules = [

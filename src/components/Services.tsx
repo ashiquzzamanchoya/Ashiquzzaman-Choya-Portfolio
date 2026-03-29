@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Card } from './ui/card';
+import { Card } from './ui-core/card';
 import { Palette, Video, Bot, MessageSquare, Film, MonitorPlay } from 'lucide-react';
 
 const services = [

@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { MapPin, Briefcase, Award, Mail } from 'lucide-react';
-import { Button } from './ui/button';
+import { Button } from './ui-core/button';
 
 export function About() {
   return (

@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
-import { Card } from './ui/card';
-import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar';
+import { Card } from './ui-core/card';
+import { Avatar, AvatarFallback, AvatarImage } from './ui-core/avatar';
 import { Quote } from 'lucide-react';
 
 const testimonials = [
